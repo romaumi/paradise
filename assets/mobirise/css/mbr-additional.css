@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+#header1-1 H1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 100px;
+  text-align: center;
+  color: #000000;
+}
+#header1-1 I {
+  font-size: 80px;
+}
+#msg-box4-e .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-e .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-e .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-article {
+  color: #ffffff;
+}
+#msg-box3-9 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+}
+#msg-box3-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-9 .mbr-article {
+  text-align: center;
+  color: #ffffff;
+}
